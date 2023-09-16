@@ -1,4 +1,4 @@
-## URL Shortner
+# URL Shortner
 
 Just a simple code for [URL Shortner](https://github.com/GauravGupta256/URL-Shortner/) game!
 
