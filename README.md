@@ -30,7 +30,7 @@ Soon...
 Install my project
 
 ```bash
-git clone https://github.com/GauravGupta256/Rock-Paper-Scissors.git
+git clone https://github.com/GauravGupta256/URL-Shortner.git
 ```
     
 ## Support
